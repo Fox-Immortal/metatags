@@ -9,6 +9,7 @@ export class Notes {
             this.notes[index] = this.notes[index].replace(regex, " ");
         }
         console.log('this.notes :>> ', this.notes);
+
     }
     print() {
         console.log("");
