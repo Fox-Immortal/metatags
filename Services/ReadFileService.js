@@ -1,4 +1,4 @@
-import { Singleton } from "./Singleton.js"
+import { Singleton } from "../api/Singleton.js";
 import fs from "fs";
 export class ReadFileService extends Singleton {
     constructor(id) {
