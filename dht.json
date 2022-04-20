@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "users": {
+            "965553741300400190": {
+                "name": "ps.fuad.daoud",
+                "tag": "0529",
+                "avatar": "bc0d7ff8b15082a453831d6526d5d763"
+            }
+        },
+        "userindex": [
+            "965553741300400190"
+        ],
+        "servers": [
+            {
+                "name": "ProgressSoft",
+                "type": "SERVER"
+            }
+        ],
+        "channels": {
+            "965554488096202782": {
+                "server": 0,
+                "name": "phase-2-b",
+                "position": 2
+            }
+        }
+    },
+    "data": {
+        "965554488096202782": {
+            "965581677424427038": {
+                "u": 0,
+                "t": 1650283011538,
+                "m": "> Video 1#:  canCreate, service, stateless, Project BISFileReader, resources, temp file, samples, record(model)"
+            },
+            "965585993015099402": {
+                "u": 0,
+                "t": 1650284040455,
+                "m": "> Video 2#: Project BISFileReader, TDD",
+                "te": 1650440849370
+            },
+            "965605396242890762": {
+                "u": 0,
+                "t": 1650288666545,
+                "m": "> Video 3#:  Project BISFileReader, Review, Border, Range, threads"
+            },
+            "965908073686372382": {
+                "u": 0,
+                "t": 1650360830471,
+                "m": "> Video 4#: Project BISFileReader, Review, state design pattern, Consumer, H2",
+                "te": 1650378574918
+            },
+            "965991677959503962": {
+                "u": 0,
+                "t": 1650380763283,
+                "m": "> Video 5#: Project BISFileReader,  H2,  TDD,  Liquibase",
+                "te": 1650381803956
+            },
+            "966021692742852700": {
+                "u": 0,
+                "t": 1650387919365,
+                "m": "> Video 6# Project BISFileReader,  TDD, Decorator Design Pattern, Delegation",
+                "te": 1650388826709
+            },
+            "966025472603455528": {
+                "u": 0,
+                "t": 1650388820554,
+                "m": "> Video 7#: Project BISFileReader, TDD, Decorator Design Pattern, Delegation, review, testing reflection api, dynamic proxy api, Aspect Oriented Programming",
+                "te": 1650401093523
+            },
+            "966235122007425054": {
+                "u": 0,
+                "t": 1650438804867,
+                "m": "> Video 8#: Project BISFileReader, TDD, Decorator Design Pattern, Delegation, review, testing reflection api, dynamic proxy api"
+            },
+            "966235315520040980": {
+                "u": 0,
+                "t": 1650438851004,
+                "m": "```diff\n- Notes:\nMissing Video ???\n```"
+            }
+        }
+    }
+}
